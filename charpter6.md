@@ -75,5 +75,12 @@ Diagnosing Neural Networks
 * Manually examine the errors on examples in the cross validation set and try to spot a trend where most of the errors were made.
 
 
+### 其他
+
+本周内容最后介绍了一些Presicion、Recall的一些相关问题，这些问题的概念还是比较好理解的，就是有时候有点绕。
+
+[参考链接](http://www.cnblogs.com/bluepoint2009/archive/2012/09/18/precision-recall-f_measures.html)
+
+
 
 
