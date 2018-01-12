@@ -10,7 +10,8 @@
 [charpter7](charpter7.md)  
 [charpter8](charpter8.md)  
 [charpter9](charpter9.md)  
-
+[charpter10](charpter10.md)  
+[charpter11](charpter11.md)
 
 ### 重要的课程
 
